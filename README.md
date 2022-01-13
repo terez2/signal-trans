@@ -1,5 +1,5 @@
 # Eye state detection project
-This project compares different machine learning models in terms of use for eeg signals. This is the preparation for your own data set and its processing.
+This project compares different machine learning models. This is the preparation for own data set and its processing.
 
 The complete documentation is attached as a pdf file.
 
