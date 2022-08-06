@@ -13,3 +13,4 @@ https://www.kaggle.com/markwallbang/eeg-eye-state
 * The eye state is the last column 
   * eeg_eye.arff - '1' indicates the eye-closed and '0' the eye-open state
   * eeg_eye_state.arff - updated file - state is 'open' or 'close'
+* eye_state_model.pt and trainloss.npy are files from the dataset published in Kaggle
